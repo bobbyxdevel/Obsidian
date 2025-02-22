@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "tmux.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "tmux"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "tmux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "tmux.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -176,8 +176,15 @@
   },
   "active": "4e9d86b67f0f722b",
   "lastOpenFiles": [
-    "textgenerator/templates/awesomePrompts/investmentmanagerAwesome.md",
+    "README.md",
+    "tmux.md",
     "textgenerator/templates/awesomePrompts/wikipediapageAwesome.md",
+    "textgenerator/templates/awesomePrompts/yogiAwesome.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/awesomePrompts/investmentmanagerAwesome.md",
     "textgenerator/templates/awesomePrompts/sqlterminalAwesome.md",
     "textgenerator/templates/awesomePrompts/timetravelguideAwesome.md",
     "textgenerator/templates/awesomePrompts/solrsearchengineAwesome.md",
@@ -191,17 +198,10 @@
     "textgenerator/templates/awesomePrompts/productmanagerAwesome.md",
     "textgenerator/templates/awesomePrompts/realestateagentAwesome.md",
     "textgenerator/templates/awesomePrompts/rprogramminginterpreterAwesome.md",
-    "textgenerator/templates/awesomePrompts/yogiAwesome.md",
     "textgenerator/templates/awesomePrompts/svgdesignerAwesome.md",
     "textgenerator/templates/awesomePrompts/startupideageneratorAwesome.md",
     "textgenerator/templates/awesomePrompts/newlanguagecreatorAwesome.md",
     "textgenerator/templates/awesomePrompts/spongebobsmagicconchshellAwesome.md",
-    "textgenerator/templates/awesomePrompts/philosophyteacherAwesome.md",
-    "textgenerator/templates/awesomePrompts/debaterAwesome.md",
-    "textgenerator/templates/awesomePrompts/coverletterAwesome.md",
-    "textgenerator/templates/awesomePrompts/linuxterminalAwesome.md",
-    "textgenerator/templates/awesomePrompts/webdesignconsultantAwesome.md",
-    "textgenerator/templates/awesomePrompts/standupcomedianAwesome.md",
     "textgenerator/templates/awesomePrompts",
     "textgenerator/templates/default",
     "textgenerator/templates",
