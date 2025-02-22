@@ -40,7 +40,7 @@
     "set-llm": true,
     "set-model": true,
     "packageManager": true,
-    "create-template": false,
+    "create-template": true,
     "get-title": true,
     "generated-text-to-clipboard-From-template": false,
     "calculate-tokens": true,
