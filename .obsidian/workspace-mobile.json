@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "tmux"
             }
+          },
+          {
+            "id": "fffc873baca12084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmux.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "tmux"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,6 +168,16 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "9cf435d029f883f1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "New tab"
+        }
       }
     ],
     "currentTab": 2
@@ -174,10 +199,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4e9d86b67f0f722b",
+  "active": "fffc873baca12084",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.md",
     "tmux.md",
+    "README.md",
     "textgenerator/templates/awesomePrompts/wikipediapageAwesome.md",
     "textgenerator/templates/awesomePrompts/yogiAwesome.md",
     "textgenerator/templates/default/getTitles.md",
@@ -201,7 +227,6 @@
     "textgenerator/templates/awesomePrompts/svgdesignerAwesome.md",
     "textgenerator/templates/awesomePrompts/startupideageneratorAwesome.md",
     "textgenerator/templates/awesomePrompts/newlanguagecreatorAwesome.md",
-    "textgenerator/templates/awesomePrompts/spongebobsmagicconchshellAwesome.md",
     "textgenerator/templates/awesomePrompts",
     "textgenerator/templates/default",
     "textgenerator/templates",
