@@ -75,6 +75,7 @@
       "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-vision",
+      "installed": false,
       "downloads": 8727
     },
     "smartConnections": {
@@ -87,6 +88,7 @@
       "tags": "smartConnections,smart-connections",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-smartConnections",
+      "installed": false,
       "downloads": 8726
     },
     "Experimental": {
@@ -132,6 +134,7 @@
       "core": true,
       "folderName": "excalidrawPackage",
       "price": 2,
+      "installed": false,
       "downloads": 0
     }
   },
