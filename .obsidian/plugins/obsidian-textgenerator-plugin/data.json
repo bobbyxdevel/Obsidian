@@ -123,7 +123,8 @@
       "sanatization_response": "// catch error\nif (res.status >= 300) {\n  const err = data?.error?.message || JSON.stringify(data);\n  throw err;\n}\n\n// get choices\nconst choices = (data.choices || data).map(c=> c.message);\n\n// the return object should be in the format of \n// { content: string }[] \n// if there's only one response, put it in the array of choices.\nreturn choices;",
       "frequency_penalty": 0,
       "presence_penalty": 0.5,
-      "top_p": 1
+      "top_p": 1,
+      "streamable": true
     }
   },
   "LLMProviderOptionsKeysHashed": {
