@@ -4,7 +4,7 @@
   "models": [],
   "api_key": "",
   "encrypt_keys": false,
-  "selectedProvider": "OpenAI Agent (Langchain)",
+  "selectedProvider": "OpenAI Chat (Langchain)",
   "max_tokens": 500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
@@ -96,7 +96,12 @@
       "api_version": ""
     },
     "OpenAI Chat (Langchain)": {
-      "basePath": "https://api.openai.com/v1"
+      "basePath": "https://api.openai.com/v1",
+      "model": "gpt-4o"
+    },
+    "OpenAI Agent (Langchain)": {
+      "basePath": "https://api.openai.com/v1",
+      "model": "o1-mini"
     }
   },
   "LLMProviderOptionsKeysHashed": {}
