@@ -169,11 +169,27 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "4e9d86b67f0f722b",
   "lastOpenFiles": [
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
     "README.md"
   ]
 }
