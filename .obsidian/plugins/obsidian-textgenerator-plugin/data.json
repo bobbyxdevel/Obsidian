@@ -97,12 +97,17 @@
     },
     "OpenAI Chat (Langchain)": {
       "basePath": "https://api.openai.com/v1",
-      "model": "gpt-4o"
+      "model": "gpt-4o",
+      "api_key": ""
     },
     "OpenAI Agent (Langchain)": {
       "basePath": "https://api.openai.com/v1",
       "model": "o1-mini"
     }
   },
-  "LLMProviderOptionsKeysHashed": {}
+  "LLMProviderOptionsKeysHashed": {
+    "whisper.api_key": "__@#key_prefix#@__",
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-8qLSxzrocT-WL3SMT37YanY8CMZPxU38yYt2m73rthgMoDh0NcU0xE8maoO0vKBoVmMwqNvNueT3BlbkFJ2yXJFVlapoM5fTZOy_FXajVLbL769cR8o3Bc_SdS2n3LyJgcwPW8WkcaiPqmZqGxBjYff7_xUA"
+  },
+  "api_key_encrypted": "__@#key_prefix#@__sk-proj-8qLSxzrocT-WL3SMT37YanY8CMZPxU38yYt2m73rthgMoDh0NcU0xE8maoO0vKBoVmMwqNvNueT3BlbkFJ2yXJFVlapoM5fTZOy_FXajVLbL769cR8o3Bc_SdS2n3LyJgcwPW8WkcaiPqmZqGxBjYff7_xUA"
 }
