@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "README"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tmux.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "tmux.md",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -201,8 +201,13 @@
   },
   "active": "fffc873baca12084",
   "lastOpenFiles": [
-    "Untitled.md",
+    "textgenerator/templates/trash/smartConnections/summarize.md",
     "tmux.md",
+    "textgenerator/templates/trash/smartConnections",
+    "textgenerator/templates/trash",
+    "textgenerator/templates/smartConnections/summarize.md",
+    "textgenerator/templates/smartConnections",
+    "Untitled.md",
     "README.md",
     "textgenerator/templates/awesomePrompts/wikipediapageAwesome.md",
     "textgenerator/templates/awesomePrompts/yogiAwesome.md",
@@ -225,8 +230,6 @@
     "textgenerator/templates/awesomePrompts/realestateagentAwesome.md",
     "textgenerator/templates/awesomePrompts/rprogramminginterpreterAwesome.md",
     "textgenerator/templates/awesomePrompts/svgdesignerAwesome.md",
-    "textgenerator/templates/awesomePrompts/startupideageneratorAwesome.md",
-    "textgenerator/templates/awesomePrompts/newlanguagecreatorAwesome.md",
     "textgenerator/templates/awesomePrompts",
     "textgenerator/templates/default",
     "textgenerator/templates",
