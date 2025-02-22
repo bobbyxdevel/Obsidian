@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "tmux.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
