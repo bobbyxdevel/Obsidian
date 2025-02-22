@@ -124,12 +124,15 @@
       "frequency_penalty": 0,
       "presence_penalty": 0.5,
       "top_p": 1,
-      "streamable": true
+      "streamable": true,
+      "api_key": ""
     }
   },
   "LLMProviderOptionsKeysHashed": {
     "whisper.api_key": "__@#key_prefix#@__",
-    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-8qLSxzrocT-WL3SMT37YanY8CMZPxU38yYt2m73rthgMoDh0NcU0xE8maoO0vKBoVmMwqNvNueT3BlbkFJ2yXJFVlapoM5fTZOy_FXajVLbL769cR8o3Bc_SdS2n3LyJgcwPW8WkcaiPqmZqGxBjYff7_xUA"
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-8qLSxzrocT-WL3SMT37YanY8CMZPxU38yYt2m73rthgMoDh0NcU0xE8maoO0vKBoVmMwqNvNueT3BlbkFJ2yXJFVlapoM5fTZOy_FXajVLbL769cR8o3Bc_SdS2n3LyJgcwPW8WkcaiPqmZqGxBjYff7_xUA",
+    "OpenAI Chat (Langchain) 1.api_key": "__@#key_prefix#@__sk-proj-8qLSxzrocT-WL3SMT37YanY8CMZPxU38yYt2m73rthgMoDh0NcU0xE8maoO0vKBoVmMwqNvNueT3BlbkFJ2yXJFVlapoM5fTZOy_FXajVLbL769cR8o3Bc_SdS2n3LyJgcwPW8WkcaiPqmZqGxBjYff7_xUA",
+    "Default (Custom).api_key": "__@#key_prefix#@__pplx-yhg61GvGf9n3fpgxTSb5sxuWxPthz1XEM6fEFnWw2vcWuGlO"
   },
   "api_key_encrypted": "__@#key_prefix#@__sk-proj-8qLSxzrocT-WL3SMT37YanY8CMZPxU38yYt2m73rthgMoDh0NcU0xE8maoO0vKBoVmMwqNvNueT3BlbkFJ2yXJFVlapoM5fTZOy_FXajVLbL769cR8o3Bc_SdS2n3LyJgcwPW8WkcaiPqmZqGxBjYff7_xUA"
 }
