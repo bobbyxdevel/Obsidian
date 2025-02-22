@@ -1,9 +1,3 @@
-# Test
-
-
-It looks like you're starting a README file and have included a section titled "Starred Blocks" with a placeholder for "Test." Here's a basic framework to help you expand on this README:
-
-```markdown
 # Project Title
 
 A brief description of your project, highlighting what it does and its main features.
@@ -60,7 +54,3 @@ Specify the license under which the project is distributed (e.g., MIT License).
 ## Contact
 
 Provide contact information or links to where contributors can reach you or find more information about the project (e.g., email address, Twitter handle, etc.).
-
-```
-
-Feel free to fill in each section with more detailed information relevant to your project!
