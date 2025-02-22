@@ -1,5 +1,6 @@
 {
   "defaultViewMode": "preview",
   "livePreview": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true
 }
