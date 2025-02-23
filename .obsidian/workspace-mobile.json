@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttt.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ttt"
+              "title": "README"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "ttt.md",
+    "README.md",
     "Clippings/Tools for Hyprland  Typecraft Learn.md",
     "Clippings/GitHub · Build and ship software on a single, collaborative platform.md",
     "Clippings",
