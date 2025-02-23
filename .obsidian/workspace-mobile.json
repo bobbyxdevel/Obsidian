@@ -195,10 +195,11 @@
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "fffc873baca12084",
+  "active": "589169151ebcd647",
   "lastOpenFiles": [
     "README.md",
     "note.md",
