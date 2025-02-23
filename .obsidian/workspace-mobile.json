@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7d0e661933d8ef8d",
+        "id": "6087cd31313b598e",
         "type": "tabs",
         "children": [
           {
-            "id": "4e9d86b67f0f722b",
+            "id": "2dc780de7e80b6fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmux.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tmux"
-            }
-          },
-          {
-            "id": "fffc873baca12084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "note"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +180,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "589169151ebcd647",
+  "active": "2dc780de7e80b6fa",
   "lastOpenFiles": [
-    "README.md",
     "note.md",
+    "README.md",
     "textgenerator/templates/trash/smartConnections/summarize.md",
     "tmux.md",
     "textgenerator/templates/trash/smartConnections",
