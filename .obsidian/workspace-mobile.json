@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "note"
             }
           }
         ],
@@ -193,7 +193,6 @@
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
@@ -201,6 +200,8 @@
   },
   "active": "fffc873baca12084",
   "lastOpenFiles": [
+    "README.md",
+    "note.md",
     "textgenerator/templates/trash/smartConnections/summarize.md",
     "tmux.md",
     "textgenerator/templates/trash/smartConnections",
@@ -208,7 +209,6 @@
     "textgenerator/templates/smartConnections/summarize.md",
     "textgenerator/templates/smartConnections",
     "Untitled.md",
-    "README.md",
     "textgenerator/templates/awesomePrompts/wikipediapageAwesome.md",
     "textgenerator/templates/awesomePrompts/yogiAwesome.md",
     "textgenerator/templates/default/getTitles.md",
@@ -229,7 +229,6 @@
     "textgenerator/templates/awesomePrompts/productmanagerAwesome.md",
     "textgenerator/templates/awesomePrompts/realestateagentAwesome.md",
     "textgenerator/templates/awesomePrompts/rprogramminginterpreterAwesome.md",
-    "textgenerator/templates/awesomePrompts/svgdesignerAwesome.md",
     "textgenerator/templates/awesomePrompts",
     "textgenerator/templates/default",
     "textgenerator/templates",
