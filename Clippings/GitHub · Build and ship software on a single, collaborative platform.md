@@ -1,13 +1,13 @@
 ---
-title: "GitHub · Build and ship software on a single, collaborative platform"
-source: "https://github.com/"
+title: GitHub · Build and ship software on a single, collaborative platform
+source: https://github.com/
 author:
   - "[[GitHub]]"
 published: 2025-01-01
 created: 2025-02-23
-description: "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+description: GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.
 tags:
-  - "clippings"
+  - clippings
 ---
 Mona the Octocat, Copilot, and Ducky float jubilantly upward from behind the GitHub product demo accompanied by a purple glow and a scattering of stars.
 
