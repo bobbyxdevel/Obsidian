@@ -4,8 +4,6 @@ Here's a commented markdown file that shows the vault structure in a tree view:
 
 ```markdown
 # Obsidian Vault Structure
-
-```
 .
 ├── 00-Index                 # Central hub for navigating the vault
 │   └── Main-MOC.md          # Main Map of Content file
