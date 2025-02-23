@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Tools for Hyprland  Typecraft Learn.md",
-                "mode": "preview",
+                "file": "ttt.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tools for Hyprland  Typecraft Learn"
+              "title": "ttt"
             }
           }
         ]
@@ -186,9 +186,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Clippings/GitHub · Build and ship software on a single, collaborative platform.md",
-    "Clippings/Tools for Hyprland  Typecraft Learn.md",
     "README.md",
+    "ttt.md",
+    "Clippings/Tools for Hyprland  Typecraft Learn.md",
+    "Clippings/GitHub · Build and ship software on a single, collaborative platform.md",
     "Clippings",
     "note.md",
     "textgenerator/templates/trash/smartConnections/summarize.md",
@@ -215,7 +216,6 @@
     "textgenerator/templates/awesomePrompts/essaywriterAwesome.md",
     "textgenerator/templates/awesomePrompts/webbrowserAwesome.md",
     "textgenerator/templates/awesomePrompts/personalchefAwesome.md",
-    "textgenerator/templates/awesomePrompts/productmanagerAwesome.md",
     "textgenerator/templates/awesomePrompts",
     "textgenerator/templates/default",
     "textgenerator/templates",
